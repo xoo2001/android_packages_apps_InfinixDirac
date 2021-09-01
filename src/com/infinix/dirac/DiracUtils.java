@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.realme.dirac;
+package com.infinix.dirac;
 
 import android.content.Context;
 import android.content.Intent;

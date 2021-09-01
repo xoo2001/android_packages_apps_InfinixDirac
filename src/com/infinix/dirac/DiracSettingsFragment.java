@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.realme.dirac;
+package com.infinix.dirac;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -31,7 +31,7 @@ import android.widget.CompoundButton;
 import android.widget.Switch;
 import android.widget.TextView;
 
-import com.realme.dirac.R;
+import com.infinix.dirac.R;
 
 import androidx.preference.ListPreference;
 import androidx.preference.Preference;

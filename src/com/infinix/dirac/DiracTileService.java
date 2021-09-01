@@ -1,4 +1,4 @@
-package com.realme.dirac;
+package com.infinix.dirac;
 
 import android.service.quicksettings.Tile;
 import android.service.quicksettings.TileService;

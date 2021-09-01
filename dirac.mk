@@ -1,3 +1,3 @@
 # Parts
 PRODUCT_PACKAGES += \
-    RealmeDirac
+    InfinixDirac
